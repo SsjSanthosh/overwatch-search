@@ -1,5 +1,11 @@
 import React from "react";
-
-export default function Profile() {
-  return <div>RPOFILE</div>;
+import { connect } from "react-redux";
+function Profile({ search }) {
+  return <div className="container">{search}</div>;
 }
+const mapStateToProps = state => {
+  return {
+    search: state.search.search
+  };
+};
+export default connect(mapStateToProps)(Profile);

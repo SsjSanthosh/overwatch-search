@@ -4,3 +4,10 @@ export const handleSearchChange = item => {
     payload: item
   };
 };
+
+export const handleSearchSubmit = item => {
+  return {
+    type: "HANDLE_SEARCH_SUBMIT",
+    payload: item
+  };
+};

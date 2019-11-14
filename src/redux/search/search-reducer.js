@@ -11,7 +11,7 @@ const searchReducer = (state = INITIAL_STATE, action) => {
       return { search: action.payload };
     case "HANDLE_SEARCH_SUBMIT":
       return {
-        ...state,
+        search: "",
         region: action.payload.region,
         platform: action.payload.platform,
         tag: action.payload.tag

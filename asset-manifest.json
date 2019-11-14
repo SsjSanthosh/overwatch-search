@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/overwatch-search/static/css/main.ef106e3b.chunk.css",
+    "main.js": "/overwatch-search/static/js/main.082cf424.chunk.js",
+    "main.js.map": "/overwatch-search/static/js/main.082cf424.chunk.js.map",
+    "runtime-main.js": "/overwatch-search/static/js/runtime-main.c139986f.js",
+    "runtime-main.js.map": "/overwatch-search/static/js/runtime-main.c139986f.js.map",
+    "static/js/2.bbacf9b8.chunk.js": "/overwatch-search/static/js/2.bbacf9b8.chunk.js",
+    "static/js/2.bbacf9b8.chunk.js.map": "/overwatch-search/static/js/2.bbacf9b8.chunk.js.map",
+    "index.html": "/overwatch-search/index.html",
+    "precache-manifest.79128013784465b930e3d606969da5d9.js": "/overwatch-search/precache-manifest.79128013784465b930e3d606969da5d9.js",
+    "service-worker.js": "/overwatch-search/service-worker.js",
+    "static/css/main.ef106e3b.chunk.css.map": "/overwatch-search/static/css/main.ef106e3b.chunk.css.map",
+    "static/media/App.css": "/overwatch-search/static/media/bgimg.438f6050.jpg",
+    "static/media/logo.svg": "/overwatch-search/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c139986f.js",
+    "static/js/2.bbacf9b8.chunk.js",
+    "static/css/main.ef106e3b.chunk.css",
+    "static/js/main.082cf424.chunk.js"
+  ]
+}

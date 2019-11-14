@@ -1,0 +1,26 @@
+.container {
+  > form {
+    .player-search {
+      border-radius: 5px;
+      width: 80%;
+      margin-right: 2rem;
+    }
+    > select {
+      border-radius: 5px;
+    }
+    .btn {
+      border-radius: 5px;
+      width: 25%;
+      margin: 0 auto;
+      margin-top: 1rem;
+
+      background-color: orange;
+      border: 1px solid black;
+      &:hover {
+        background-color: #fff;
+        color: orange;
+        border: 1px solid orange;
+      }
+    }
+  }
+}

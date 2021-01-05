@@ -5,7 +5,7 @@
   "homepage": "https://ssjsanthosh.github.io/overwatch-search",
   "dependencies": {
     "@material-ui/core": "^4.6.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0",
     "oversmash": "^1.6.0",
